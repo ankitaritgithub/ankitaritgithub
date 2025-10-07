@@ -1,7 +1,7 @@
 ---
 ![logo](https://github.com/ankitaritgithub/ankitaritgithub/blob/main/Gemini_Generated_Image_68r43a68r43a68r4.png)
 <h1 align="center">Hi 👋, I'm Ankita Singh</h1>
-<h3 align="center">A Software Engineer specializing in AI/LLMs, Full-Stack Development, and QA Automation from India</h3>
+[cite_start]<h3 align="center">A Software Engineer specializing in AI/LLMs, Full-Stack Development, and QA Automation from India [cite: 1, 11, 18]</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -16,11 +16,11 @@
 
 ### 🔥 Core Expertise & Highlights
 
-[cite_start]My work as a **Software Engineer** [cite: 11] [cite_start]and **Associate Software Engineer** [cite: 18] focuses on building robust, scalable solutions and leveraging Generative AI and LLMs to solve complex problems.
+[cite_start]My work as a **Software Engineer** [cite: 11] [cite_start]and **Associate Software Engineer** [cite: 18] [cite_start]focuses on building robust, scalable solutions and leveraging Generative AI and LLMs to solve complex problems[cite: 13, 20].
 
-- [cite_start]**AI/ML & LLMs:** Experienced in fine-tuning **LLAMA 3.2 1B** with custom embeddings, which improved medicine-mapping accuracy by **75%**[cite: 14]. [cite_start]Built a medical health chatbot using **LLAMA 3.2** and **LangGraph**[cite: 13].
-- [cite_start]**Backend & APIs:** Developed async **FastAPI** pipelines with **JWT** auth and Redis checkpointing[cite: 16]. [cite_start]Contributed to GenAI and Akira AI projects by designing and deploying RESTful APIs with **FastAPI** & **PostgreSQL**[cite: 25].
-- [cite_start]**QA Automation:** Developed **Agent QA**, an AI-powered platform using **Playwright** and **Groq LLM**, which **reduced manual testing by 70%** and automated **500+ test cases**[cite: 20, 21]. [cite_start]Built scalable microservices for real-time test orchestration[cite: 22].
+* [cite_start]**AI/ML & LLMs:** Experienced in fine-tuning **LLAMA 3.2 1B** with custom embeddings, which improved medicine-mapping accuracy by **75%**[cite: 14]. [cite_start]Built a medical health chatbot using **LLAMA 3.2** and **LangGraph**[cite: 13].
+* [cite_start]**Backend & APIs:** Developed async **FastAPI** pipelines with **JWT** auth and Redis checkpointing[cite: 16]. [cite_start]Contributed to GenAI and Akira AI projects by designing and deploying RESTful APIs with **FastAPI** & **PostgreSQL**[cite: 25].
+* [cite_start]**QA Automation:** Developed **Agent QA**, an AI-powered platform using **Playwright** and **Groq LLM**, which **reduced manual testing by 70%** and automated **500+ test cases**[cite: 20, 21]. [cite_start]Built scalable microservices for real-time test orchestration[cite: 22].
 
 ---
 
@@ -33,19 +33,19 @@
     
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a>
+
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> </a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/> </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> </a>
-
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
     <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
